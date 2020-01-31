@@ -1,6 +1,6 @@
 # MachineLearning-workshop 3rd Feb, 2020
 
-## Schedule
+### Schedule
 
 | Links   |      Content      |  Time |
 |----------|:-------------:|------:|
@@ -15,3 +15,9 @@
 | <a href="https://colab.research.google.com/github/"><img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a> | Model Evaluation | 30 min |
 | Slides | Future Learning | 30 min |
 |  | ML Idea pitch & AMA | 30 min |
+
+### Colab Notebooks
+* Welcome to Coloboratory
+* Python for data science
+* Pandas, numpy and Matplotlib
+* End to End ML - Titanic example
