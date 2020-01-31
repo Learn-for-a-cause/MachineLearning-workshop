@@ -4,7 +4,7 @@
 
 | Links   |      Content      |  Time |
 |----------|:-------------:|------:|
-| Slides |  Intro to Machine Learning terminilogy | 30 min |
+| Slides |  Intro to Machine Learning terminology | 30 min |
 | <a href="https://colab.research.google.com/github/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a> |    ML Tools: Python |   30 min |
 | <a href="https://colab.research.google.com/github/"><img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a> | ML Tools: Pandas, numpy & MatplotLib | 30 min |
 | Slides | Deep into Machine Learning | 1 hr |
