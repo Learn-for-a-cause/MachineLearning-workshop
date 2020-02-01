@@ -16,6 +16,10 @@
 | Slides | Future Learning | 30 min |
 |  | ML Idea pitch & AMA | 30 min |
 
+### Environment Setup
+Welcome to Google Colab  <a href="https://colab.research.google.com/github/Learn-for-a-cause/MachineLearning-workshop/blob/master/Welcome_To_Colaboratory.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Welcome to Google Colab" title="Open and Execute in Google Colaboratory"></a>
+
+
 ### Colab Notebooks
 * Welcome to Coloboratory
 * Python for data science
