@@ -25,3 +25,6 @@ Welcome to Google Colab  <a href="https://colab.research.google.com/github/Learn
 * Python for data science
 * Pandas, numpy and Matplotlib
 * End to End ML - Titanic example
+
+
+**Submit your feedback [here](https://forms.gle/YABzijCsLrmNTuw78)**
